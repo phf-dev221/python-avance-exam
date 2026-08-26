@@ -32,4 +32,4 @@ main.py
 
 ## Auteur
 
-Godfred Amoako
+Pape Hamady Fall - M1 DSIA - ISI / 2025-2026
